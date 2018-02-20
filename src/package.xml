@@ -4,26 +4,9 @@
         <members>BG_Custom</members>
         <name>ApexClass</name>
     </types>
-	<types>
+    <types>
         <members>Account</members>
         <name>CustomObject</name>
     </types>
-    <!--<types>
-        <members>*</members>
-        <name>ApexComponent</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexPage</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexTrigger</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>StaticResource</name>
-    </types> -->
-
     <version>36.0</version>
 </Package>
